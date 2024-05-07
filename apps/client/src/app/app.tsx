@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import NxWelcome from './nx-welcome';
+import NxWelcome from './nx-welcome'
 
 const StyledApp = styled.div`
   // Your style here
